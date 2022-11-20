@@ -1,0 +1,14 @@
+# npm dependencies
+node_modules
+
+# package-lock.json
+package-lock.json
+
+# node complied files
+lib
+
+# VSCode configs
+.vscode
+
+# Typescript complied files
+**/dist/**.js
