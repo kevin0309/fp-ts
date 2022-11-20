@@ -5,7 +5,7 @@
   "main": "lib/index.js",
   "scripts": {
     "test": "ts-node src/test.ts",
-    "inflearn-1_1": "ts-node src/inflearn/Chapter01/1.ts"
+    "inflearn-01_01": "ts-node src/inflearn/chapter01/section01/test.ts"
   },
   "repository": {
     "type": "git",
